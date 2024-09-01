@@ -1,0 +1,6 @@
+máu quái
+infor
+attack
+movement
+collider
+win / lose
