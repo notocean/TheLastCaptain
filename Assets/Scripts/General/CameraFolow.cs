@@ -9,8 +9,7 @@ public class CameraFolow : MonoBehaviour
     private Vector3 target2This;
 
     private void Start() {
-        //target = GameManager.Instance.player.transform;
-        target = GameObject.FindGameObjectWithTag("Player").transform;
+        target = GameManager.Instance.GetPlayerObj().transform;
         target2This = transform.position - target.position;
     }
 

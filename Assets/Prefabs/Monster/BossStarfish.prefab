@@ -8,25 +8,45 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2258984300186184208, guid: 295d6005e0196f848b646a281a2a842e,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800885801104338586, guid: 295d6005e0196f848b646a281a2a842e,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800885801104338586, guid: 295d6005e0196f848b646a281a2a842e,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3800885801104338586, guid: 295d6005e0196f848b646a281a2a842e,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 16
+      objectReference: {fileID: 0}
     - target: {fileID: 3902028389009666946, guid: 295d6005e0196f848b646a281a2a842e,
         type: 3}
       propertyPath: m_Name
-      value: BossStarfish Variant
+      value: BossStarfish
       objectReference: {fileID: 0}
     - target: {fileID: 4426223187790489912, guid: 295d6005e0196f848b646a281a2a842e,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4426223187790489912, guid: 295d6005e0196f848b646a281a2a842e,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4426223187790489912, guid: 295d6005e0196f848b646a281a2a842e,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 1
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4426223187790489912, guid: 295d6005e0196f848b646a281a2a842e,
         type: 3}

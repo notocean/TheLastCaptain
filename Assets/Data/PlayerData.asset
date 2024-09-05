@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 529460d2165823347916ff7889adc5c2, type: 3}
   m_Name: PlayerData
   m_EditorClassIdentifier: 
-  ironResource: 800
+  ironResource: 560
   damageUpgradeLevel: 0
   healthUpgradeLevel: 0
   speedUpgradeLevel: 0
   ironResourceOfLevel: 200
   isAudio: 1
   isMusic: 1
-  isTutorial: 1
+  isTutorial: 0
